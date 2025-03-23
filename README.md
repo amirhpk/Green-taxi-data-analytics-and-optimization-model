@@ -1,7 +1,5 @@
-خب آقا
-این برا فاز 1
-About:
-This transportation planning project involves analyzing Green Taxi services in NYC using data preprocessing, machine learning, and optimization techniques to enhance urban transportation systems. The project spans two phases, focusing on trip analysis, OD matrices, supply-demand optimization, and predictive modeling.
+
+
 
 Readme:
 <!DOCTYPE html>
